@@ -394,7 +394,7 @@ input[type='radio'] {
     width: 100vw;
 }
 
-@media (max-width : 320px) {
+@media (max-width : 1284px) {
     :root {
         overflow: hidden;
     }
@@ -408,7 +408,7 @@ input[type='radio'] {
 
 
 #nice {
-    position: absolute;
+    position: relative;
     z-index: 4;
     width: 15vw;
     top:8vw;
